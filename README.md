@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1XlyPfkkFy-o5u3q6A0FGpU0ujt9jnKdp/view?usp=drive
 https://drive.google.com/file/d/1I2wHYLnh7-eZfeHBIvdtEC0o549agrxt/view?usp=drivesdk
 Internship certificates earned
 # edunet foundation and IBM skill build
-drive.google.com/file/d/1HJRlw2sPjO5RWqkkbj2JwXsInQ3bdFJf/view
+https://drive.google.com/file/d/1HJRlw2sPjO5RWqkkbj2JwXsInQ3bdFJf/view
 # Salesforce
 https://drive.google.com/file/d/1XbUqHF_2ygNyORYfBXnckAjLMNzAiJ7g/view?usp=drivesdk
 # sparks foundation 
